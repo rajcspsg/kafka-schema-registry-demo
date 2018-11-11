@@ -1,0 +1,4 @@
+rootProject.name = 'kafka-schema-registry-demo'
+include 'kafka-avro-v1'
+include 'kafka-avro-v2'
+

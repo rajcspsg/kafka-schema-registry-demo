@@ -1,0 +1,3 @@
+group 'kafka-schema-registry-demo'
+version '1.0-SNAPSHOT'
+
